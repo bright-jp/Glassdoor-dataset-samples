@@ -1,67 +1,67 @@
 # Glassdoor-dataset-samples
 
-<h2>A sample dataset of 1001 Glassdoor companies reviews</h2>
+<h2>1001件のGlassdoor企業レビューのサンプルデータセット</h2>
 
 ![Glasdoor dataset header](https://github.com/luminati-io/Glassdoor-dataset-samples/blob/main/glassdoor-datasets.PNG)
 
-A Glassdoor dataset sample of over 1000 companies reviews. Dataset was extracted using the <b>Bright Data API</b>.
+1000社以上の企業レビューのGlassdoorデータセットサンプルです。データセットは<b>Bright Data API</b>を使用して抽出されています。
 
-<h2>Data points included in this free dataset:</h2>
+<h2>この無料データセットに含まれるデータポイント:</h2>
 
-* ```overview_id```: Unique identifier for the company overview
-* ```review_id```: Unique identifier for each review
-* ```review_url```: Link to the specific review on Glassdoor
-* ```rating_date```: Date when the review was submitted
-* ```company_name```: Name of the reviewed company
-* ```review_pros```: Positive aspects mentioned in the review
-* ```review_cons```: Negative aspects mentioned in the review
-* ```rating_overall```: Overall rating given by the reviewer
-* ```summary```: Summary overview of the review
-* ```rating_work_life```: Rating for work-life balance
-* ```rating_compensation_benefits```: Rating for compensation and benefits
-* ```rating_culture_values```: Rating for company culture and values
-* ```flags_business_outlook```: Flags related to business outlook
-* ```employee_type```: Status of employment (e.g., former employee, current employee)
-* ```flags_recommend_frend```: Flags related to recommending the company
-* ```rating_senior_leadership```: Rating for senior leadership
-* ```flags_ceo_approval```: Flags related to CEO approval
+* ```overview_id```: 企業概要の一意識別子
+* ```review_id```: 各レビューの一意識別子
+* ```review_url```: Glassdoor上の特定レビューへのリンク
+* ```rating_date```: レビューが投稿された日付
+* ```company_name```: レビュー対象企業名
+* ```review_pros```: レビューで言及された肯定的な側面
+* ```review_cons```: レビューで言及された否定的な側面
+* ```rating_overall```: レビュアーによる総合評価
+* ```summary```: レビューの要約概要
+* ```rating_work_life```: ワークライフバランスの評価
+* ```rating_compensation_benefits```: 報酬および福利厚生の評価
+* ```rating_culture_values```: 企業文化および価値観の評価
+* ```flags_business_outlook```: 事業見通しに関連するフラグ
+* ```employee_type```: 雇用状況（例: 元従業員、現従業員）
+* ```flags_recommend_frend```: 企業の推薦に関連するフラグ
+* ```rating_senior_leadership```: シニアリーダーシップの評価
+* ```flags_ceo_approval```: CEO承認に関連するフラグ
 
-And a lot more.
+ほかにも多数あります。
 
-This is a sample subset which is derived from the "Glassdoor Companies Reviews (public data)"
-dataset which includes more than <b>21,860,000 companies</b>.
+これは「Glassdoor Companies Reviews (public data)」データセットから派生したサンプルサブセットです。
+このデータセットには<b>21,860,000社以上</b>が含まれます。
 
-Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
+利用可能なデータセットのファイル形式: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>。
 
-Dataset delivery type options: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+データセットの配信タイプの選択肢: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>。
 
-Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>.
+更新頻度: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>。
 
-Data enrichment available as an addition to the data points extracted: <b>Based on request.</b>
+抽出されたデータポイントに追加できるデータエンリッチメント: <b>Based on request.</b>
 
-<b>[Get the full Glassdoor company reviews dataset](https://brightdata.com/products/datasets/glassdoor)</b>.
+<b>[Glassdoor企業レビューデータセットのフル版を入手](https://brightdata.jp/products/datasets/glassdoor)</b>。
 
-<h2>Additional Glassdoor datasets available:</h2>
+<h2>利用可能な追加のGlassdoorデータセット:</h2>
 
-*   Glassdoor companies overview information
-*   Glassdoor full job listings information
+*   Glassdoor企業の概要情報
+*   Glassdoor求人情報（全件）
 
 ![Glassdoor dataset visual](https://github.com/luminati-io/Glassdoor-dataset-samples/blob/main/glassdoor-datasets-image.PNG)
 
-<h2>What are the Glassdoor datasets use cases?</h2>
+<h2>Glassdoorデータセットのユースケースとは？</h2>
 
-<h3>1. Competitive analysis</h3>
+<h3>1. 競合分析</h3>
 
-Utilize firmographic data to monitor company growth, pinpoint key organizations and professionals, track employee transitions, and enhance competitive intelligence and analysis with greater efficiency.
+企業属性データを活用して企業の成長をモニタリングし、主要な組織や専門家を特定し、従業員の移動を追跡し、競合インテリジェンスと分析をより高い効率で強化します。
 
-<h3>2. Market trends & growth</h3>
+<h3>2. 市場トレンドと成長</h3>
 
-Assess company growth and industry trends to support data-driven decisions. Hedge funds, VCs, and financial firms can significantly boost their investment analysis using the Glassdoor dataset.
+企業の成長および業界トレンドを評価し、データドリブンな意思決定を支援します。ヘッジファンド、VC、金融機関は、Glassdoorデータセットを用いることで投資分析を大幅に強化できます。
 
-<h3>3. B2B company data</h3>
+<h3>3. B2B企業データ</h3>
 
-Enhance your lead generation and sales intelligence by integrating high-quality company and employee data into your CRM, enriched with a comprehensive Glassdoor dataset.
+包括的なGlassdoorデータセットで強化された高品質な企業・従業員データをCRMに統合することで、リード獲得とセールスインテリジェンスを向上させます。
 
-<h2>Free access to web scraping tools and datasets for academic researchers and NGOs</h2>
+<h2>学術研究者およびNGO向けのWebスクレイピングツールとデータセットへの無料アクセス</h2>
 
-The Bright Initiative offers access to Bright Data's <b>[Web Scraper APIs](https://brightdata.com/products/web-scraper)</b> and <b>[ready-to-use datasets](https://brightdata.com/products/datasets)</b> to leading academic faculties and researchers, NGOs and NPOs promoting various environmental and social causes. You can submit an application <b>[here](https://brightinitiative.com)</b>.
+Bright Initiativeは、さまざまな環境・社会課題を推進する主要な学術機関の学部・研究者、NGOおよびNPOに対して、Bright Dataの<b>[Web Scraper APIs](https://brightdata.jp/products/web-scraper)</b>および<b>[すぐに使えるデータセット](https://brightdata.jp/products/datasets)</b>へのアクセスを提供します。申請は<b>[こちら](https://brightinitiative.com)</b>から提出できます。
