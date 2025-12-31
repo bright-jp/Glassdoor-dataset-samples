@@ -2,7 +2,7 @@
 
 <h2>1001件のGlassdoor企業レビューのサンプルデータセット</h2>
 
-![Glasdoor dataset header](https://github.com/luminati-io/Glassdoor-dataset-samples/blob/main/glassdoor-datasets.PNG)
+![Glasdoor dataset header](https://github.com/bright-jp/Glassdoor-dataset-samples/blob/main/glassdoor-datasets.PNG)
 
 1000社以上の企業レビューのGlassdoorデータセットサンプルです。データセットは<b>Bright Data API</b>を使用して抽出されています。
 
@@ -46,7 +46,7 @@
 *   Glassdoor企業の概要情報
 *   Glassdoor求人情報（全件）
 
-![Glassdoor dataset visual](https://github.com/luminati-io/Glassdoor-dataset-samples/blob/main/glassdoor-datasets-image.PNG)
+![Glassdoor dataset visual](https://github.com/bright-jp/Glassdoor-dataset-samples/blob/main/glassdoor-datasets-image.PNG)
 
 <h2>Glassdoorデータセットのユースケースとは？</h2>
 
