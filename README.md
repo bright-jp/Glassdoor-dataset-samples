@@ -1,4 +1,4 @@
-# Glassdoor-dataset-samples
+# Glassdoor データセットサンプル
 
 <h2>1001件のGlassdoor企業レビューのサンプルデータセット</h2>
 
